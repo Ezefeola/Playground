@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../../../../../../OneDrive/Escritorio/General/Projects/playgroundApi/PlaygroundApi/Plaground.Infrastructure/Plaground.Infrastructure.csproj" />
+  <Project Path="../../../../../../OneDrive/Escritorio/General/Projects/playgroundApi/PlaygroundApi/Playground.Application/Playground.Application.csproj" />
+  <Project Path="../../../../../../OneDrive/Escritorio/General/Projects/playgroundApi/PlaygroundApi/playground.Domain/Playground.Domain.csproj" />
+  <Project Path="../../../../../../OneDrive/Escritorio/General/Projects/playgroundApi/PlaygroundApi/PlaygroundApi/PlaygroundApi.csproj" />
+</Solution>
